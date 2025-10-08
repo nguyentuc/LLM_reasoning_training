@@ -1,3 +1,11 @@
+## Setup environment
+```
+conda create -n reasoning_llm_scratch python=3.10
+conda activate reasoning_llm_scratch
+pip install reasoning-from-scratch
+pip install -r requirements.txt
+```
+
 ## Table of Contents
 
 | Chapter Title                                                | Main Code                                                    |

@@ -1,12 +1,3 @@
-# Build A Reasoning Model (From Scratch)
-
-This repository contains the code for developing an LLM reasoning model.
-
-> **Tip:**
-> Chapter 2 provides additional tips on installing Python, managing Python packages, and setting up your coding environment.
-
-<br>
-
 ## Table of Contents
 
 | Chapter Title                                                | Main Code                                                    |
@@ -25,17 +16,6 @@ This repository contains the code for developing an LLM reasoning model.
 | Appendix E                                                   | TBA                                                          |
 | Appendix F: Common Approaches to LLM Evaluation              | - [chF_main.ipynb](chF/01_main-chapter-code/chF_main.ipynb)  |
 
-
-
-(Please see the [setup_tips](ch02/https://github.com/rasbt/reasoning-from-scratch/blob/main/ch02/01_main-chapter-code/python-instructions.md) doc for additional recommendations.)
-
-&nbsp;
-## Exercises
-
-Each chapter of the book includes several exercises. The solutions are summarized in Appendix B, and the corresponding code notebooks are available in the main chapter folders of this repository (for example,  [`ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb`](ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb)).
-
-
-&nbsp;
 ## Bonus Material
 
 Several folders contain optional materials as a bonus for interested readers:

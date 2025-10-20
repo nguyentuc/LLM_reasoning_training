@@ -197,3 +197,4 @@ cython_debug/
 .pypirc
 
 SVAMP/
+model_cache/

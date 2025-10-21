@@ -198,3 +198,5 @@ cython_debug/
 
 SVAMP/
 model_cache/
+*.model
+*.pth

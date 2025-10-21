@@ -5,6 +5,7 @@ conda activate reasoning_llm_scratch
 pip install reasoning-from-scratch
 pip install -r requirements.txt
 pip install -q transformers accelerate
+pip install torch tiktoken blobfile
 ```
 
 ## Table of Contents
